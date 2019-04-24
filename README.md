@@ -2,9 +2,6 @@
 
 The ability to find cheap drinks by providing your zipcode. 
 
-
-End with an example of getting some data out of the system or using it for a little demo
-
 ![Alt text](https://i.ibb.co/tmqgLSm/Screen-Shot-2019-04-24-at-3-28-16-AM.png?raw=true)
 
 ![Alt text](https://i.ibb.co/wz4SWFr/Screen-Shot-2019-04-24-at-4-06-40-AM.png?raw=true)
