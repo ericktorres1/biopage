@@ -49,13 +49,9 @@ Add additional notes about how to deploy this on a live system
 See also the list of [contributors](https://github.com/mgmoser1/group-project-1) who participated in this project.
 
 [Michael Gentilini](https://github.com/dallasappraiser)
-
 [Megan Moser](https://github.com/mgmoser1)
-
 [Brian Shutzman](https://github.com/bjschutzman/totally-trivia)
-
 [Sunny Patel]()
-
 [Erick Torres](https://github.com/ericktorres1)
 
 
