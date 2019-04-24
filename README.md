@@ -1,6 +1,6 @@
 # Find Your Buzz
 
-##Overview##
+##Overview
 The ability to find cheap drinks by providing your zipcode. 
 
 
